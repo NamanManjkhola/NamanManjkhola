@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="35%" height="35%">
-🔭 I’m currently working on HTML, CSS, Javascript<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning React.js<br>💬 Ask me about Tech Frameworks<br>⚡ Fun fact I consider myself a Developer
+🔭 I’m currently working on HTML, CSS, Javascript<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning React.js<br>💬 Ask me about Tech<br>⚡ Fun fact I consider myself a Developer
 
 
 ## 🌐 Socials:
