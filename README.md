@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# Hi👋, Myself Naman Manjkhola
+# Hi 👋, Myself Naman Manjkhola
 
 </div>
 
