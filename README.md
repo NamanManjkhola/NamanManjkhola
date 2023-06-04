@@ -1,6 +1,4 @@
 
-![Banner](https://media-exp1.licdn.com/dms/image/C5616AQHNsrGAuTXQFA/profile-displaybackgroundimage-shrink_350_1400/0/1630050278339?e=1670457600&v=beta&t=Qplh9a8-T_p2cbgiso-5zK4Lm8ssnEdHjylboaSLgZw)
-
 <div align="center">
   
 # Hi 👋, Myself Naman Manjkhola
